@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ибрагим Умирзаков</title>
+    <title>Мой сайт</title>
     <link>https://iumirzakov.github.io/ru/</link>
       <atom:link href="https://iumirzakov.github.io/ru/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ибрагим Умирзаков</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <description>Мой сайт</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://iumirzakov.github.io/media/icon_hu7729264130191091259.png</url>
-      <title>Ибрагим Умирзаков</title>
+      <title>Мой сайт</title>
       <link>https://iumirzakov.github.io/ru/</link>
     </image>
     
@@ -143,18 +143,10 @@
     </item>
     
     <item>
-      <title>Experience</title>
+      <title>Опыт</title>
       <link>https://iumirzakov.github.io/ru/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://iumirzakov.github.io/ru/experience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Experience</title>
-      <link>https://iumirzakov.github.io/ru/experience/experience/</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://iumirzakov.github.io/ru/experience/experience/</guid>
       <description></description>
     </item>
     

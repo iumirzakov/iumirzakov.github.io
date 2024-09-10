@@ -12,7 +12,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="https://iumirzakov.github.io/ru/event/example/"
                 />
   </url><url>
@@ -26,7 +26,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="https://iumirzakov.github.io/ru/event/"
                 />
   </url><url>
@@ -40,22 +40,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="https://iumirzakov.github.io/ru/tags/academic/"
-                />
-  </url><url>
-    <loc>https://iumirzakov.github.io/ru/publication/</loc>
-    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://iumirzakov.github.io/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://iumirzakov.github.io/ru/publication/"
                 />
   </url><url>
     <loc>https://iumirzakov.github.io/ru/tags/</loc>
@@ -68,7 +54,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="https://iumirzakov.github.io/ru/tags/"
                 />
   </url><url>
@@ -82,8 +68,22 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="https://iumirzakov.github.io/ru/publication/science/"
+                />
+  </url><url>
+    <loc>https://iumirzakov.github.io/ru/publication/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://iumirzakov.github.io/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://iumirzakov.github.io/ru/publication/"
                 />
   </url><url>
     <loc>https://iumirzakov.github.io/ru/publication/itworld/</loc>
@@ -96,7 +96,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="https://iumirzakov.github.io/ru/publication/itworld/"
                 />
   </url><url>
@@ -110,7 +110,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="https://iumirzakov.github.io/ru/publication/rudn-subway/"
                 />
   </url><url>
@@ -124,7 +124,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="https://iumirzakov.github.io/ru/publication/itfuture/"
                 />
   </url><url>
@@ -138,7 +138,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="https://iumirzakov.github.io/ru/publication/rudn/"
                 />
   </url><url>
@@ -152,7 +152,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="https://iumirzakov.github.io/ru/post/"
                 />
   </url><url>
@@ -166,7 +166,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="https://iumirzakov.github.io/ru/post/summary2/"
                 />
   </url><url>
@@ -180,7 +180,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="https://iumirzakov.github.io/ru/post/summary1/"
                 />
   </url><url>
@@ -194,13 +194,9 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="https://iumirzakov.github.io/ru/experience/"
                 />
-  </url><url>
-    <loc>https://iumirzakov.github.io/ru/experience/experience/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://iumirzakov.github.io/ru/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
@@ -212,7 +208,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="https://iumirzakov.github.io/ru/"
                 />
   </url><url>
@@ -225,7 +221,7 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
+                hreflang="ru-ru"
                 href="https://iumirzakov.github.io/ru/publication_types/"
                 />
   </url>
