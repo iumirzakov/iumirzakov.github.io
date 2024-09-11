@@ -31,7 +31,7 @@
                 />
   </url><url>
     <loc>https://iumirzakov.github.io/ru/tags/academic/</loc>
-    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -44,8 +44,50 @@
                 href="https://iumirzakov.github.io/ru/tags/academic/"
                 />
   </url><url>
+    <loc>https://iumirzakov.github.io/ru/post/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://iumirzakov.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://iumirzakov.github.io/ru/post/"
+                />
+  </url><url>
+    <loc>https://iumirzakov.github.io/ru/tags/exam/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://iumirzakov.github.io/tags/exam/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://iumirzakov.github.io/ru/tags/exam/"
+                />
+  </url><url>
+    <loc>https://iumirzakov.github.io/ru/tags/student/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://iumirzakov.github.io/tags/student/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://iumirzakov.github.io/ru/tags/student/"
+                />
+  </url><url>
     <loc>https://iumirzakov.github.io/ru/tags/</loc>
-    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -56,6 +98,20 @@
                 rel="alternate"
                 hreflang="ru-ru"
                 href="https://iumirzakov.github.io/ru/tags/"
+                />
+  </url><url>
+    <loc>https://iumirzakov.github.io/ru/post/summary3/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://iumirzakov.github.io/post/summary3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://iumirzakov.github.io/ru/post/summary3/"
                 />
   </url><url>
     <loc>https://iumirzakov.github.io/ru/publication/science/</loc>
@@ -140,20 +196,6 @@
                 rel="alternate"
                 hreflang="ru-ru"
                 href="https://iumirzakov.github.io/ru/publication/rudn/"
-                />
-  </url><url>
-    <loc>https://iumirzakov.github.io/ru/post/</loc>
-    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://iumirzakov.github.io/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://iumirzakov.github.io/ru/post/"
                 />
   </url><url>
     <loc>https://iumirzakov.github.io/ru/post/summary2/</loc>
